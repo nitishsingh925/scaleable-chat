@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun src/index.ts"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
